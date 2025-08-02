@@ -43,3 +43,8 @@ do {
             console.log("Opción no válida.");
     }
 }   while (opcion !== 4);
+<footer>
+     <p> camilo gaviria - F152t04
+            <a href="../../index.html">Volver al índice</a>
+        </p>
+    </footer>

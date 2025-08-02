@@ -10,3 +10,8 @@ for (let numero = 2; numero <= 30; numero ++) {
         console.log(numero);
     }
 }
+<footer>
+     <p> camilo gaviria - F152t04
+            <a href="../../index.html">Volver al índice</a>
+        </p>
+    </footer>

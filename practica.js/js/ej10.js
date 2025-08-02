@@ -6,3 +6,8 @@ let numero = 9876;
             }
             while (numero > 0);
 console.log(`El número 9836 tiene ${digitos} dígitos.`);
+<footer>
+     <p> camilo gaviria - F152t04
+            <a href="../../index.html">Volver al índice</a>
+        </p>
+    </footer>

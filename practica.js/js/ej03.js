@@ -8,3 +8,8 @@ console.log("4. Salir");
  opcion++;//Seleccione una opción:"));
  } while (opcion !== 4);
 console.log("Saliendo del programa...");
+<footer>
+     <p> camilo gaviria - F152t04
+            <a href="../../index.html">Volver al índice</a>
+        </p>
+    </footer>
